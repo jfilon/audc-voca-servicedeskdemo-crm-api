@@ -52,7 +52,7 @@ if (array_key_exists($ticket, $customTickets)) {
     $response = $customTickets[$ticket];
 } else {
     $response = [
-        'firstname'    => $defaultFirstName,
+        'firstName'    => $defaultFirstName,
         'ticketStatus' => $defaultStatus
     ];
 }
