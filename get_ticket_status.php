@@ -12,21 +12,21 @@ $defaultStatus    = 'open';
 $customTickets = [
   // JF - reserved
     '1111' => [
-        'firstname'    => 'jasper',
+        'firstName'    => 'jasper',
         'ticketStatus' => 'open'
     ],
   // JF - reserved
       '1234' => [
-        'firstname'    => 'jasper',
+        'firstName'    => 'jasper',
         'ticketStatus' => 'open'
     ],
   // JF - reserved
     '9999' => [
-        'firstname'    => 'jasper',
+        'firstName'    => 'jasper',
         'ticketStatus' => 'open'
     ],
     '5678' => [
-        'firstname'    => 'patrick',
+        'firstName'    => 'patrick',
         'ticketStatus' => 'closed'
     ]
 ];
